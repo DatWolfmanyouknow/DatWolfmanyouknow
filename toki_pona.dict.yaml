@@ -1,0 +1,10 @@
+# toki_pona.dict.yaml
+
+---
+name: toki_pona
+version: 'v0.1'
+
+import_tables:
+  - 'toki_pona.kansi'
+  - 'toki_pona.kana'
+...
